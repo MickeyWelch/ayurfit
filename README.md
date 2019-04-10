@@ -1,5 +1,3 @@
 # Ayurfit
-Ayurfit
 ##Clientinfo
-
 ##Setup
